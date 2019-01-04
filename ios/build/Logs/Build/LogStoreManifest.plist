@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A873F5E-4E93-452B-9450-210A2AA0CF8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A873F5E-4E93-452B-9450-210A2AA0CF8D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>tungcr7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tungcr7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project tungcr7 with scheme tungcr7 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568333653.04573095</real>
+			<key>timeStoppedRecording</key>
+			<real>568333658.21120298</real>
+			<key>title</key>
+			<string>Building project tungcr7 with scheme tungcr7 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A873F5E-4E93-452B-9450-210A2AA0CF8D</string>
+		</dict>
+		<key>A685AB6E-BD45-41ED-80C5-9E271BB247F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A685AB6E-BD45-41ED-80C5-9E271BB247F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>tungcr7 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tungcr7</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project tungcr7 with scheme tungcr7 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568334819.10642004</real>
+			<key>timeStoppedRecording</key>
+			<real>568334825.83451605</real>
+			<key>title</key>
+			<string>Building project tungcr7 with scheme tungcr7 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A685AB6E-BD45-41ED-80C5-9E271BB247F4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

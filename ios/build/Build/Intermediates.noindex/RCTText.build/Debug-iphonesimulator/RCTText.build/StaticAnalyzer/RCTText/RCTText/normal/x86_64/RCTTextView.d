@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/tungcr7/react-native/tungcr7/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/tungcr7/react-native/tungcr7/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tungcr7/react-native/tungcr7/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/tungcr7/react-native/tungcr7/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/tungcr7/react-native/tungcr7/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/tungcr7/react-native/tungcr7/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/tungcr7/react-native/tungcr7/node_modules/react-native/Libraries/Text/RCTTextTransform.h
